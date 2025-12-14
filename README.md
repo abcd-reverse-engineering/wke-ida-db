@@ -1,6 +1,8 @@
 # wke-ida-db
 
-## Version Info
+Windows Kernel Explorer 是专有软件，且作者在分发软件时启用了 VMProtect 保护。
+
+## 版本信息 / Version Info
 
 ### v20251214-01
 
