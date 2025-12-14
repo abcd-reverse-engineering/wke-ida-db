@@ -1,6 +1,12 @@
 # wke-ida-db
 
-Windows Kernel Explorer 是专有软件，且作者在分发软件时启用了 VMProtect 保护。
+Windows Kernel Explorer 是专有软件，且作者在分发软件时启用了 VMProtect 保护，如果想寻找开源替代，请参考：
+
+- **System Informer**: https://github.com/winsiderss/systeminformer
+- **WinObjEx64**: https://github.com/hfiref0x/WinObjEx64
+- **Kernel-Bridge Framework**: https://github.com/HoShiMin/Kernel-Bridge
+- **Syscall Tables**: https://github.com/hfiref0x/SyscallTables
+- **Total Registry**: https://github.com/zodiacon/TotalRegistry
 
 ## 版本信息 / Version Info
 
