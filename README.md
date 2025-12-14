@@ -1,6 +1,6 @@
 # wke-ida-db
 
-## 版本信息
+## Version Info
 
 ### v20251214-01
 
